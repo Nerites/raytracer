@@ -1,0 +1,15 @@
+﻿  raytrace.cpp
+c:\users\tian\dropbox\raytracer_scratch\raytracer_scratch\raytrace.cpp(42): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\tian\dropbox\raytracer_scratch\raytracer_scratch\raytrace.cpp(43): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\tian\dropbox\raytracer_scratch\raytracer_scratch\raytrace.cpp(322): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tian\dropbox\raytracer_scratch\raytracer_scratch\raytrace.cpp(323): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tian\dropbox\raytracer_scratch\raytracer_scratch\raytrace.cpp(324): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tian\dropbox\raytracer_scratch\raytracer_scratch\raytrace.cpp(421): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tian\dropbox\raytracer_scratch\raytracer_scratch\raytrace.cpp(422): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tian\dropbox\raytracer_scratch\raytracer_scratch\raytrace.cpp(423): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tian\dropbox\raytracer_scratch\raytracer_scratch\raytrace.cpp(468): warning C4244: '=': conversion from 'float' to 'BYTE', possible loss of data
+c:\users\tian\dropbox\raytracer_scratch\raytracer_scratch\raytrace.cpp(469): warning C4244: '=': conversion from 'float' to 'BYTE', possible loss of data
+c:\users\tian\dropbox\raytracer_scratch\raytracer_scratch\raytrace.cpp(470): warning C4244: '=': conversion from 'float' to 'BYTE', possible loss of data
+c:\users\tian\dropbox\raytracer_scratch\raytracer_scratch\raytrace.cpp(360): warning C4101: 'specCoeff': unreferenced local variable
+  raytracer_scratch.vcxproj -> C:\Users\Tian\Dropbox\raytracer_scratch\Debug\raytracer_scratch.exe
+  raytracer_scratch.vcxproj -> C:\Users\Tian\Dropbox\raytracer_scratch\Debug\raytracer_scratch.pdb (Partial PDB)
